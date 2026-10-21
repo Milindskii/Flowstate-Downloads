@@ -13,9 +13,9 @@ Try Flowstate, your personal productivity companion built around energy rhythms.
 
 - **Version:** 1.1.0
 - **Platform:** Android (API 24+)
-- **Build:** 7
-- **Package size:** Approximately 145 MB
-- **SHA-256:** `c7cf9ce61ec0dae91d59e536bc7de40bc2e3c3df5a818061c9f2217f307b0708`
+- **Build:** 8
+- **Package size:** Approximately 146 MB (152,668,223 bytes)
+- **SHA-256:** `3c07c1c2c7a4c130d87312304c75cc7f9a90060543ce4b5e364f2d197d1a6ade`
 
 ### Installation Notes
 
