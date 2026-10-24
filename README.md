@@ -19,7 +19,7 @@ Rather than managing rigid, stressful to-do lists, Flowstate helps you balance d
 ### 🌐 Official Links
 
 - **Website:** [flowstate-noya.pages.dev](https://flowstate-noya.pages.dev/)
-- **Latest Release:** [Flowstate 1.1.0 (Build 9)](https://github.com/Milindskii/Flowstate-Downloads/releases/tag/v1.1.0-build9)
+- **Latest Release:** [Flowstate 1.1.0 (Build 10)](https://github.com/Milindskii/Flowstate-Downloads/releases/tag/v1.1.0-build10)
 
 ---
 
@@ -27,9 +27,9 @@ Rather than managing rigid, stressful to-do lists, Flowstate helps you balance d
 
 Download the latest verified APK directly to your Android device:
 
-**[⬇️ Download Flowstate APK (v1.1.0, Build 9)](https://github.com/Milindskii/Flowstate-Downloads/releases/download/v1.1.0-build9/Flowstate.apk)**
+**[⬇️ Download Flowstate APK (v1.1.0, Build 10)](https://github.com/Milindskii/Flowstate-Downloads/releases/latest/download/Flowstate.apk)**
 
-*(SHA-256 Checksum: `5916451197c5ef6a1ba3dc63c355c76784b698c38613bed0f8a0b51e39039560`)*
+*(SHA-256 Checksum: `3b6c08843a808e53c8fdb8f64df4125ce523892ada7f5133f90025e35362124d`)*
 
 ---
 
@@ -40,7 +40,7 @@ Download the latest verified APK directly to your Android device:
 3. If prompted by Android to allow installation from unknown sources, tap **Settings** and enable **"Allow from this source"**.
 4. Tap **Install** and launch Flowstate.
 
-> **Note on Updates:** Build 9 installs seamlessly over existing Flowstate v1.1.0 installations without losing any local data.
+> **Note on Updates:** Build 10 installs seamlessly over existing Flowstate v1.1.0 installations without losing any local data.
 
 ---
 
